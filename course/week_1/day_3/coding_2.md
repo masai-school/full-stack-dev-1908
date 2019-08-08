@@ -41,19 +41,20 @@ Your html code show pass the validator test you can check by yourself using this
 
 ### FSD.W1.3.1_2
 
-- Create a file called `unix.html` (Use only `h` tags)
-- Write `html` code so that it looks like the given image https://raw.githubusercontent.com/masai-school/full-stack-dev-1908/master/course/week_1/day_2/resources/headings.png
+- Create a file called `unix.html` 
+- Write `html` code so that it looks like the given image https://raw.githubusercontent.com/masai-school/full-stack-dev-1908/master/course/week_1/day_3/resources/css_1.jpg
 
 ### FSD.W1.3.1_3
 
-- Create a file called `points.html` (Use only `p` `div` `ul` `li` tags)
-- Write `html` code so that it looks like the given image https://raw.githubusercontent.com/masai-school/full-stack-dev-1908/master/course/week_1/day_2/resources/basic_content.png
+- Create a file called `points.html` 
+- Write `html` code so that it looks like the given image https://raw.githubusercontent.com/masai-school/full-stack-dev-1908/master/course/week_1/day_3/resources/css_2.jpg
+- You can directly link the flag images from this link http://www.sciencekids.co.nz/pictures/flags.html
 
 ### FSD.W1.3.1_4
 
-- Create a file called `instagram.html` (Use only `table` `tr` `td` tags)
+- Create a file called `instagram.html`
 - Write `html` code so that it looks like the given image
-https://raw.githubusercontent.com/masai-school/full-stack-dev-1908/master/course/week_1/day_2/resources/table_basics.png
+https://raw.githubusercontent.com/masai-school/full-stack-dev-1908/master/course/week_1/day_3/resources/css_3.jpg
 
 ### FSD.W1.3.1_6
 
