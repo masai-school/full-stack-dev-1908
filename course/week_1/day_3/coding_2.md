@@ -1,6 +1,6 @@
-# Week 1 - Day 2
+# Week 1 - Day 3
 
-#### Coding Session 1
+#### Coding Session 2
 
 **NOTE:** Try not to use google or stackoverflow when you are stuck instead explore the mozilla documentation pages.
 
@@ -30,7 +30,7 @@
 
 Your html code show pass the validator test you can check by yourself using this link it also shows the errors and warnings so that you can fix before submission https://validator.w3.org/#validate_by_input
 
-### FSD.W1.3.1_1 
+### FSD.W1.3.2_1 
 
 - Navigate to home folder 
 - Create a folder called `coding` 
@@ -39,24 +39,24 @@ Your html code show pass the validator test you can check by yourself using this
 - Create a folder called `session_2` inside `day_3`
 - Open the coding folder using Visual Studio Code/Sublime 
 
-### FSD.W1.3.1_2
+### FSD.W1.3.2_2
 
 - Create a file called `unix.html` 
 - Write `html` code so that it looks like the given image https://raw.githubusercontent.com/masai-school/full-stack-dev-1908/master/course/week_1/day_3/resources/css_1.jpg
 
-### FSD.W1.3.1_3
+### FSD.W1.3.2_3
 
 - Create a file called `points.html` 
 - Write `html` code so that it looks like the given image https://raw.githubusercontent.com/masai-school/full-stack-dev-1908/master/course/week_1/day_3/resources/css_2.jpg
 - You can directly link the flag images from this link http://www.sciencekids.co.nz/pictures/flags.html
 
-### FSD.W1.3.1_4
+### FSD.W1.3.2_4
 
 - Create a file called `instagram.html`
 - Write `html` code so that it looks like the given image
 https://raw.githubusercontent.com/masai-school/full-stack-dev-1908/master/course/week_1/day_3/resources/css_3.jpg
 
-### FSD.W1.3.1_6
+### FSD.W1.3.2_6
 
 - Copy the html files (unix.html, points.html, instagram.html) to the `cohort_2` repo cloned into `~/repos/cohort_2` inside the folder `submissions/<your_folder>/week_1/day_3/session_2/`  (create the folders if they don't exist). 
 - Then, commit and push the files to the online GitHub repository.

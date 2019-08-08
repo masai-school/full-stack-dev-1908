@@ -1,4 +1,4 @@
-# Week 1 - Day 2
+# Week 1 - Day 3
 
 #### Coding Session 1
 
@@ -6,7 +6,7 @@
 
 **NOTE:** Follow the instructions carefully and follow coding discipline
 
-### FSD.W1.2.1_1
+### FSD.W1.3.1_1
 
 - Go to your home directory `cd ~` and create a folder called `coding`   
 - Create a folder called `week_1` inside `coding` folder  
@@ -14,23 +14,23 @@
 - Create a folder called `session_1` inside `day_3` folder  
 - Navigate to the folder `coding/week_1/day_3/session_1`
 
-### FSD.W1.2.1_2
+### FSD.W1.3.1_2
 
 Save the current date to a file called `date.txt`
 
-### FSD.W1.2.1_3
+### FSD.W1.3.1_3
 
 Create a calendar file for the year you were born with the following name `cal_yyyy.txt`
 
-### FSD.W1.2.1_4
+### FSD.W1.3.1_4
 
-Append the current date to previously created file called `date.txt` in **FSD.W1.2.1_2**  
+Append the current date to previously created file called `date.txt` in **FSD.W1.3.1_2**  
 
-### FSD.W1.2.1_5
+### FSD.W1.3.1_5
 
-See the file `date.txt` using `less` command and calculate see how much time you spend between solving **FSD.W1.2.1_2** and **FSD.W1.2.1_4**
+See the file `date.txt` using `less` command and calculate see how much time you spend between solving **FSD.W1.3.1_2** and **FSD.W1.3.1_4**
 
-### FSD.W1.2.1_6
+### FSD.W1.3.1_6
 
 Download the file https://github.com/masai-school/assignments-data/raw/master/downloads/numbers.zip unzip and you will find a folder called `numbers` navigate to that folder and do the following operations
 
@@ -39,7 +39,7 @@ Download the file https://github.com/masai-school/assignments-data/raw/master/do
 - Join all the files which start with the name `even` to a file called `even.txt`
 - Join all the files which start with the name `odd` to a file called `odd.txt`
 
-### FSD.W1.2.1_7
+### FSD.W1.3.1_7
 
 Navigate to the folder `coding/week_1/day_3/session_1`  
 
@@ -48,21 +48,33 @@ Download the file <https://raw.githubusercontent.com/masai-school/assignments-da
 - Sort the names in the file `names_100.txt` in ascending order and write to a file called `names_asc.txt`
 - Sort the names in the file `names_100.txt` in descending order and write to a file called `names_desc.txt`
 
-### FSD.W1.2.1_8
+### FSD.W1.3.1_8
 
 Download the file https://raw.githubusercontent.com/masai-school/assignments-data/master/data/lists/countries.csv
 
 - Find all the countries with the name "South" in `countries.csv` and write it to a file called `coun_south.csv`
 - Find all the countries with the name "United" in `countries.csv` and write it to a file called `coun_united.csv`
 
-### FSD.W1.2.1_9
+### FSD.W1.3.1_9
 
 - Copy `countries.csv` to `countries.txt`
 - Write the number of lines in the file `countries.txt` to a file `countries_count.txt`
 - Write the number of words in the file `names_100.txt` to a file `names_wc.txt`
 - Write the number of characters in the file `names_100.txt` to a file `names_char.txt`
 
-### FSD.W1.2.1_10
+### FSD.W1.3.1_10
 
 - Write the first 50 names in the file `names_100.txt` to a file called `names_top50.txt`
 - Write the last 20 lines in the file `countries.txt` to a file called `countries_bot20.txt`
+
+
+
+### SUBMISSION
+
+- Navigate to the folder `~/coding/week_1/day_3/session_1`
+- Delete the files `countries.csv` and `countries.txt`
+- Delete the file `names_100.txt`
+- Delete the file `numbers.zip`
+- Copy the folder  `~/coding/week_1/day_3/session_1` to the `cohort_2` repo cloned into `~/repos/cohort_2` inside the folder `submissions/<your_folder>/week_1/day_3/`  (create the folders if they don't exist). 
+- Then, commit and push the files to the online GitHub repository.
+
