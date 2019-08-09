@@ -1,6 +1,6 @@
-# Week 1 - Day 3
+# Week 1 - Day 4
 
-#### Coding Session 2
+#### Coding Session 1
 
 **NOTE:** Try not to use google or stackoverflow when you are stuck instead explore the mozilla documentation pages.
 
