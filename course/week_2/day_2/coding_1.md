@@ -3,7 +3,7 @@
 **SUBMISSION:**
 - Download this file
 - Fill the answers
-- Place the file into the location `~/repos/cohort_2/week_2/day_2/session1` 
+- Place the file into the location `~/repos/cohort_2/submissions/<your_folder>/week_2/day_2/session1` 
 - Push the file  back to the online repo
 
 <u>Don't use the web browser or any online tool to answer these questions. Only refer to the notes and apply the basic concepts</u>
