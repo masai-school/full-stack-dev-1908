@@ -12,12 +12,12 @@
 
 ### FSD.W3.3.A
 
-Build a tax calculator with the following to display the amount of income tax an idividual has to pay the application should take 2 inputs total annual income and total annual savings. The rules for calculating the taxes are mentioned below
+Build a tax calculator with the following to display the amount of income tax an individual has to pay the application should take 2 inputs total annual income and total annual savings. The rules for calculating the taxes are mentioned below
 
 - Below 2,50,000 no tax
 - Amount earned between 2,50,000 and 5,00,000 - 10% of the amount earned in this slab
 - Amount earned between 5,00,000 and 10,00,000 - 20% of the amount earned in this slab
-- Amount earned about 10,00,000 - 30% of the amount earned in this slab
+- Amount earned above 10,00,000 - 30% of the amount earned in this slab
 
 The rules for the rebate based on the savings is mentioned below
 
