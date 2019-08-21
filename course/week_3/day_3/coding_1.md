@@ -26,7 +26,7 @@ You have been given 2 `input` elements named num1 and num2. num1 and num2 are us
 
 In Javascript do the following:  
 
-1. Create a basic multiplication function that accepts 2 arguments `a` and `b` and returns `a * b`.  
+1. Create a basic multiplication function that accepts 2 arguments `a` and `b` and prints `a * b`. in the console  
 
 2. When the button `Click here to find the exponent!` is clicked, you must output the value of num1<sup>num2</sup> in the `p` tag.  
 
