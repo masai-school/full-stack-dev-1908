@@ -11,7 +11,7 @@
 
 ## FSD.W4.1.A
 
-- Complete the file `firstname_lastname.html` so that it looks similar to the link https://raw.githubusercontent.com/masai-school/full-stack-dev-1908/master/course/week_4/day_2/templates/score_card_players.jpg>
+- Complete the file `firstname_lastname.html` so that it looks similar to the link https://raw.githubusercontent.com/masai-school/full-stack-dev-1908/master/course/week_4/day_2/templates/score_card_players.jpg
 - Functionality (HINE: Use Objects to store the names and scores)
   - By clicking on any number it shows up in the score box joined to any previous numbers already present (Eg: To enter a score of `423` you have to press `4` `2` `3`)
   - The name of the player can be entered in the input field above the `ENTER` button
