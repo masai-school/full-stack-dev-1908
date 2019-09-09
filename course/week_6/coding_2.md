@@ -68,7 +68,7 @@ Please follow the names and instructions strictly.
 
 
 **SUBMISSION:**
-- Create a new file and copy these two questions into it, and write your answers into that. 
+- Create a new file `test.md` and copy these two questions into it, and write your answers into that. 
 - Explain the answer as well.
 
 
