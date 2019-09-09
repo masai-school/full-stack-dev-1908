@@ -12,7 +12,7 @@
 
 - Go to `cohort_2/<your_folder>/week_6/day_1/assignment` 
 - Make a file called `index.html` and `index.js`.
-- Once you are done with the coding session push that folder to the online repo. 
+- Once you are done with the assignment push that folder to the online repo. 
 
 
 **JavaScript (ES 6)**
