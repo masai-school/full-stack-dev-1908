@@ -170,6 +170,8 @@ mySedan
 
 It is important to note that when used in a constructor, the super keyword appears alone and must be used before the this keyword is used. 
 
+
+[Codepen Example](https://codepen.io/albseb511/pen/MWgQPbe?editors=0011)
 MDN documentation [super MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
 
 
