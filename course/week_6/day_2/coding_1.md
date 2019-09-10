@@ -52,7 +52,6 @@ The goal of this project should be to create a simple stopwatch with lap informa
 
     Using a class to store information of Stopwatch and lap timings 
     Using map to create an array of elements
-    Using Local Storage to retrieve data.
 
 Similar to the image below
 ![Reference Image](https://i.imgur.com/o086sdg.png)
