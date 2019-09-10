@@ -138,6 +138,14 @@ Strict mode helps out in a couple ways:
 
 ## `SetTimeout`
 
+Syntax
+```javascript
+setTimeout(function(){ do_something }, time_in_milliseconds )
+
+var x = setTimeout(function(){ do_something }, time_in_milliseconds )
+clearTimeout(x)
+```
+
 The setTimeout() method calls a function or evaluates an expression after a specified number of milliseconds.
 
 1000 ms = 1 second.
@@ -147,6 +155,14 @@ Use the clearTimeout() method to prevent the function from running.
 [Codepen Example](https://codepen.io/albseb511/pen/XWrEMMv)
 
 ## `SetInterval`
+
+Syntax
+```javascript
+setInterval(function(){ do_something }, time_in_milliseconds )
+
+var x = setInterval(function(){ do_something }, time_in_milliseconds )
+clearInterval(x)
+```
 
 The setInterval() method calls a function or evaluates an expression at specified intervals (in milliseconds).
 
