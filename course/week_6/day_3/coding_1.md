@@ -64,6 +64,7 @@ Add/Edit the following methods:
 5. `updateFontSize`: change the value of the font size
 6. `deleteName`: delete a name by searching through your array.
 
+Make seperate input forms and buttons for this problem
 HTML/CSS:
 Create an input form for the following inputs:
 1. `name`
