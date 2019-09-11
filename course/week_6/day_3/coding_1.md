@@ -56,7 +56,7 @@ Following Buttons to be made:
 `Extend` the Class Header to make a new Class `listHeader`
 name should be an array of strings
 
-Add/Edit the following methods:
+Add/Edit the following methods: (HINT: only write the methods if its required either due to overriding or if the methods are not inherited)
 1. `displayDetails`: return all the information in a formatted way in console
 2. `render`: return a div with an h1 tag along with the name inside it. Since its an array of strings, each element has to have its own div and h1 tag.
 3. `updateName`: change the value of the name
@@ -70,6 +70,7 @@ Create an input form for the following inputs:
 1. `name`
 2. `color`
 3. `font-size`
+4. `update-name` (Keep a drop-down or select option to select which name to update)
 4. `delete-name`
 
 Following Buttons to be made:
