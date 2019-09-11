@@ -5,6 +5,8 @@
 
 ![](https://img.shields.io/badge/CODING-SESSION1-red)
 
+[Codepen Example](https://codepen.io/albseb511/pen/RwbyNoo?)
+
 **SUBMISSION:**
 - Create the files into the location `~/repos/cohort_2/submissions/<your_folder>/week_6/day_3/session_1/` 
 - Push the file  back to the online repo
