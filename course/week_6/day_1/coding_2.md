@@ -34,7 +34,7 @@ It should have the following variables: use the names as per given
 It should have the following functions:
 1. `Constructor` - Take car_make, model and top_speed and initialise while creating new Class. Fill it with invalid for wrong inputs for strings and for numbers fill with 0 if not defined. dist is initialised as 0.
 
-2. `travelDist`(time,speed) - it should take distance travelled by the car and at what speed as arguments, if not defined, then time will be given default value of 1 hour, and speed is given as half of top speed. The function calculates the distance travelled and updates the distance and returns the value of the distance.
+2. `travelDist`(time,speed) - it should take speed travelled by the car and at what speed as arguments, if not defined, then time will be given default value of 1 hour, and speed is given as half of top speed. The function calculates the distance travelled and updates the distance and returns the value of the distance.
 
 3. `presentStatus` - This will return all the variables as string in the same line with one space between each. Give units as per value
     example `Honda CRV-05 110km/hr 120km`
