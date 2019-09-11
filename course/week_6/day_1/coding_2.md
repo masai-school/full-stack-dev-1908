@@ -18,7 +18,7 @@ Create the following files
 
 Using HTML:
 Make a page that will take input from a user of a Car:
-Car make, Model, Top Speed.
+- Car make, Model, Top Speed.
 - Use a form to submit the information to create a new class with the details which is given in the next section.
 - Create one more input form where you can select your Car which will take the details of a ride, time and speed.
 - You should have one more button for showing current status of the car which will return the information of the car and the total distance travelled so far.
@@ -31,10 +31,11 @@ It should have the following variables: use the names as per given
 2. model - will contain info of the model
 3. topSpeed - top speed in km/hr
 4. dist - total distance travelled by the car
+
 It should have the following functions:
 1. `Constructor` - Take car_make, model and top_speed and initialise while creating new Class. Fill it with invalid for wrong inputs for strings and for numbers fill with 0 if not defined. dist is initialised as 0.
 
-
+2. `travelDist`(time,speed) - it should take speed travelled by the car and at what speed as arguments, if not defined, then time will be given default value of 1 hour, and speed is given as half of top speed. The function calculates the distance travelled and updates the distance and returns the value of the distance.
 
 3. `presentStatus` - This will return all the variables as string in the same line with one space between each. Give units as per value
     example `Honda CRV-05 110km/hr 120km`
