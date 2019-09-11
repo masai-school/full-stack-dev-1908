@@ -22,9 +22,9 @@
 
 Create a Class `Header`:
 It will contain the following variable(s):
-String `name` - contains name of the header
-String `color` - color of header 
-Integer `font-size` - font of the header 
+- String `name` - contains name of the header
+- String `color` - color of header 
+- Integer `font-size` - font of the header 
 
 It will have the following methods/functions inside it:
 1. `displayDetails`: return all the information in a formatted way in console
