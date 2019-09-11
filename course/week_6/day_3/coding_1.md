@@ -25,8 +25,8 @@ String `color` - color of header
 Integer `font-size` - font of the header 
 
 It will have the following methods/functions inside it:
-1. displayDetails: return all the information in a formatted way in console
-2. render: return a div with an h1 tag along with the name inside it. You should also style the font color with the color variable in the class
+1. `displayDetails`: return all the information in a formatted way in console
+2. `render`: return a div with an h1 tag along with the name inside it. You should also style the font color with the color variable in the class
 
 ### FSD W6.3.1.A.2:
 To the same class above:
