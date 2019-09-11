@@ -49,6 +49,8 @@ Following Buttons to be made:
          If the class is already created then you will call updateName. color will be black by default, and font-size will be 20px.
 - `color`: will change the value of the color
 - `font-size`: will update the value of font-size
+- `Render`: When clicked, you should display the name with a div and h1 tag.
+
 
 ### FSD W6.3.1.A.3:
 `Extend` the Class Header to make a new Class `listHeader`
@@ -75,3 +77,4 @@ Following Buttons to be made:
 - `color`: will change the value of the color
 - `font-size`: will update the value of font-size
 - `Delete Name`: will delete a particular name from the array inside the class
+- `Render`: When clicked, you should display all the name in seperate div and h1 tag in the form of a list
