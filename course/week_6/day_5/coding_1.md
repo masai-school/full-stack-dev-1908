@@ -5,18 +5,38 @@
 #### Coding Session 1
 ### FSD W6.5.1.A.1:
 
-Make this static card in a functional component:
+Write a fetch function which uses `Github API` to search for users:
 
-![A.1](https://i.imgur.com/W32l7vQ.png)
+[Seach user Github API Documentation](https://developer.github.com/v3/search/#search-users)
+
+After searching, the output should be displayed in `Search Results` table.
+
+
+The table should contain information of each profile like image, name and other details.
+
+From the returned data, use `repos_url`, `events_url` and other data points to fetch more information about each user.
+
+In the table `Search Results` for each user you should also display:
+- total no of repositories, list them in a drop down
+- last commit details
+- Show history of commit with date and no of commits on each day
+- total followers
+- total following
+- total stars
 
 ### FSD W6.5.1.A.2:
 
-Create 8 functional components for each as seen in the image:
+- Make another table with the table name `Local Storage`
+- You should have a `save` button for each user on the `Search Result` table
+- The `save` button will store information of the user locally into the `Local Storage table`
+- Ask the user if they would like to `overwrite` the data if there is a duplicate
 
-![A.2](https://static.vecteezy.com/system/resources/thumbnails/000/160/638/small/website-button-set-vector.jpg)
 
 ### FSD W6.5.1.A.3:
+- Add another button called `update` for each user in the Local Storage table
+- Add another button called `delete` for each user in the Local Storage table
+- `update` will only update the selected user with the latest information
+- `delete` will only delete the selected user
 
-Make this static card in a functional component:
-
-![A.3](https://www.florin-pop.com/static/580a39549812457188f2acf1b8459d3f/a4e26/profile-card-design.png)
+Other comments:
+- Tables can be made with flex/grid/tables/bootstrap
