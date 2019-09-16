@@ -3,19 +3,19 @@
 ![](https://img.shields.io/badge/WEEK6-DAY5-green)
 
 #### Coding Session 1
-### FSD W6.5.1.A.1:
+### FSD W7.1.1.A.1:
 
 Make this static card in a functional component:
 
 ![A.1](https://i.imgur.com/W32l7vQ.png)
 
-### FSD W6.5.1.A.2:
+### FSD W7.1.1.A.2:
 
 Create 8 functional components for each as seen in the image:
 
 ![A.2](https://static.vecteezy.com/system/resources/thumbnails/000/160/638/small/website-button-set-vector.jpg)
 
-### FSD W6.5.1.A.3:
+### FSD W7.1.1.A.3:
 
 Make this static card in a functional component:
 
