@@ -29,6 +29,15 @@ function Welcome(props) {
 //ES6
 const Welcome = (props) => <div> Hello, {props.name}</div>
 
+
+//Class
+// Class can have state if defined
+class Welcome extends React.Component {
+  render() {
+    return <h1>Hello, {this.props.name}</h1>;
+  }
+}
+
 ```
 
 
@@ -36,14 +45,7 @@ const Welcome = (props) => <div> Hello, {props.name}</div>
 
 ## Stateful components
 
-```javascript
-//Class
-class Welcome extends React.Component {
-  render() {
-    return <h1>Hello, {this.props.name}</h1>;
-  }
-}
-```
+
 
 Lets get to learning something new. 
 
