@@ -27,15 +27,26 @@ function Welcome(props) {
     )
 }
 //ES6
-const Welcome = (props) => <div> Hello, {props.name}</div>
+const WelcomeES6 = (props) => <div> Hello, {props.name}</div>
 
 
 //Class
 // Class can have state if defined
-class Welcome extends React.Component {
+class WelcomeClass extends React.Component {
   render() {
     return <h1>Hello, {this.props.name}</h1>;
   }
+}
+
+
+function App() {
+    return(
+        <div>
+            <Welcome name='Masai'/>
+            <WelcomeES6 name='Masai'/>
+            <WelcomeClass name='Masai'/>
+        </div>
+    )
 }
 
 ```
@@ -252,6 +263,8 @@ Here the `name` value from state is being passed down to a child component as pr
 Within the context of a child component, it would not know where the props came from. 
 
 Moreover, any state updates from the parent will then also apply to the child who inherits that state. 
+
+
 
 ## Some cool examples:
 
