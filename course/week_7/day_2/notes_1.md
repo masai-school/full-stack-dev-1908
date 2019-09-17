@@ -1,8 +1,8 @@
-# Week 7 - Day 1
+# Week 7 - Day 2
 
 ![](https://img.shields.io/badge/MASAI-SPARTANS-red?logo=&style=for-the-badge)
 
-![](https://img.shields.io/badge/WEEK7-DAY1-green)
+![](https://img.shields.io/badge/WEEK7-DAY2-green)
 
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="100" height="100" /> 
 
