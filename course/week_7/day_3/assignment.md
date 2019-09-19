@@ -7,7 +7,6 @@
 
 **SUBMISSION:**
 
-- Pull the `cohort_1` repo
 - Go to `week_7/day_3/assignment` 
 - Make a react app with the name `firstname_lastname` with your first name and last name  
 
