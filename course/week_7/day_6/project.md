@@ -1,4 +1,4 @@
-# Week 6 - Project
+# Week 7 - Project
 
 
 Design and implement a Landing page picked by you:
