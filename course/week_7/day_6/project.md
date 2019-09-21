@@ -24,7 +24,7 @@ Design and implement a Landing page picked by you:
 
 ## [B-Hive](https://bhiveworkspace.com/)
 
-## [91 Springboard](https://www.91springboardom)
+## [91 Springboard](https://www.91springboard.com)
 
 ## [PVR Cinemas](https://www.pvrcinemas.com/)
 
