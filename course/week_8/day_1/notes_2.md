@@ -1,4 +1,4 @@
-# Week 8 Day 2
+# Week 8 Day 1
 
 ## Deep dive into JavaScript and Asynchronous Programming
 
