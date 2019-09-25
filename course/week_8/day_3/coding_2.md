@@ -25,8 +25,6 @@
 
 **NOTE6:** You must only call `ReactDOM.render` once in your index.js file! 
 
-**NOTE7**: Commit your code to your remote branch regularly and meaningfully.(Don't commit to master!) This can help you manage your project during development in case you need to return to any old code. 
-
 **NOTE**: Do not write all your code within a single component!
 
 Within the react App delete all files from the src folder and create your own files!
