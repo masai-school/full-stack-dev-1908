@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/MASAI-SPARTANS-red?logo=&style=for-the-badge)
+
+![](https://img.shields.io/badge/WEEK8-DAY3-green)
 
 #### Coding 2
 
