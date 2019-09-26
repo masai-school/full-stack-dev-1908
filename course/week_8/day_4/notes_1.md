@@ -2,6 +2,8 @@
 
 ![](https://img.shields.io/badge/WEEK8-DAY4-green)
 
+[CodeSandbox](https://codesandbox.io/s/material-ui-kv9qx)
+
 ## Using NPM to import 3rd party packages and Styling
 
 Till now we haven't really installed any NPM packages of our own. 
@@ -93,9 +95,11 @@ class App extends React.Component{
 export default App
 ```
 
-You can check out the example here [https://github.com/masai-school/full-stack-dev/tree/master/course/week_8/day_4/material_test](https://github.com/masai-school/full-stack-dev/tree/master/course/week_8/day_4/material_test)
+You can check out the example here [https://github.com/masai-school/full-stack-dev/tree/master/course/week_8/day_4/material_test](https://github.com/masai-school/full-stack-dev/tree/master/course/week_08/day_4/material_test)
 
 Material UI has many components but you can see all of them and any examples on [https://material-ui.com/components](https://material-ui.com/components).
+
+[Minimizing Bundle Size ](https://material-ui.com/guides/minimizing-bundle-size/)
 
 The website has many examples for each component so using them in your projects should be easy.
 
