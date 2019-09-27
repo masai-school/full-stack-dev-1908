@@ -4,7 +4,7 @@
 
 **SUBMISSION:**
 
-- You must update the Day 3 Coding 2 session with new features. 
+- You must update the Week 8 Day 3 Coding 2 session with new features. 
 
 **React Router 2**
 
