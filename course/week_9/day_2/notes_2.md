@@ -259,5 +259,4 @@ Moreover for any given input, pure functions will always return the same value.
 
 
 
-
-
+[CodeSandbox](https://codesandbox.io/s/redux-exmaple-12pix)
