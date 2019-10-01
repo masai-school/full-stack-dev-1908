@@ -128,11 +128,11 @@ However, Redux has nothing to do with React JS, you can write applications that 
 
 ## The three core principles of Redux
 
-**Single Source of Truth:**
+`Single Source of Truth:`
 
 The store in redux is known as the single source of truth. This is because there is only one store in redux and it holds all the application state. Any state that need to be read in redux can only be done from the store.
 
-**State is READ only**
+`State is READ only`
 
 You cannot modify state directly in Redux like you do within a React application using `setState()`.
 
@@ -140,7 +140,7 @@ According to the Redux Docs, "The only way to change the state is to emit an act
 
 Only modify state in Redux using actions and reducers!
 
-**Changes in Redux are made with pure functions:**
+`Changes in Redux are made with pure functions:`
 
 Pure functions are functions that **do not** modify their arguments. Instead they create copies of the arguments and modify and change those copies to be returned later. 
 
@@ -159,4 +159,5 @@ Pure functions take an input value (a parameter or argument) and depending on th
 
 
 [Cartoon guide to Flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207)
+
 [Cartoon guide to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
