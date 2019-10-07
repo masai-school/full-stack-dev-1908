@@ -14,6 +14,8 @@
 
 [`Advanced Redux - Docs`](https://redux.js.org/advanced/advanced-tutorial)
 
+[`Redux-Thunk`](https://github.com/reduxjs/redux-thunk)
+
 The purpose of redux is to hold our application state, one of the great features of redux is to change our state in a very well defined pattern, and this pattern is repeated over and over in our application.
 
 - We call an `action` creater
