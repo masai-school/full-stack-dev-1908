@@ -11,3 +11,17 @@
 - It should be presented in a neat manner.
 - Maintain folder structure, clean code and good styling practices
 - Use redux to store data and handle all actions
+
+
+example for history:
+if 2 x 4 + 5 was done
+
+display
+```javascript
+   2
+x  4
++  5
+= 13
+```
+
+Feel free to be more creative and other features as well
