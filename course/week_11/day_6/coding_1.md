@@ -20,8 +20,10 @@ Guidelines
   - GDP (Number Field)
   - Population (Number Field)
 - On clicking the `Data` button you should be able to see all the countries for which the data has been entered 5 results per page and should also have the ability to filter by Continent and sort by GDP or Population in ascending or descending order. The table headers and data should look like the one provided below (The ranks for GDP and Population are calculated based one the descending order of values)
-| Code | Country   | Continent | GDP | Population | Rank (GDP) | Rank (Population) |
-|----|--------|------|------|--------| ---- | ---- |
-|  |  |  |  |    |
-
 - If you click on the country name from `/home` page and the data for that particular country is already filled previously the form should show the previously filled data
+
+| Code | Country | Continent | GDP | Population | Rank (GDP) | Rank (Population) |
+|------|---------|-----------|-----|------------|------------|-------------------|
+|      |         |           |     |            |            |                   |
+|      |         |           |     |            |            |                   |
+|      |         |           |     |            |            |                   |
