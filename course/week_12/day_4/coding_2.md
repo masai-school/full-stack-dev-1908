@@ -47,3 +47,14 @@ Submission folder `submissions/<your_folder>/week_12/day_4/session_2`
 ### FSD.W12.4.2.11
 - File `multi_occurances_list.py`
 - Given a list print the items which appear more than once (HINT: Use dictionaries) 
+
+### FSD.W12.4.2_12
+
+##### Signup for [this](https://www.hackerrank.com/masai-python-practice) contest and solve following challenges in Python:
+
+* ```Set .discard(), .remove() & .pop()```
+* ```Set .union() Operation```
+* ```Compete with Neighbour```
+* ```Identify Prime```
+* ```Masai Palindromic Substring```
+* ```Negativity!```
