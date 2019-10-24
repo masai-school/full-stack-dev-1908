@@ -1,4 +1,4 @@
-## Week 15 - Day 2
+## Week 12 - Day 4
 
 ### Coding 1
 
@@ -47,3 +47,13 @@ Submission folder `submissions/<your_folder>/week_15/day_2/session_1`
 ### FSD.W12.4.1.11
 - File `join_list.py`
 - Given a list and a character, generate a string joining each item in the list with the given character (NOTE: You can't use inbuilt methods)
+
+### FSD.W12.4.1_12
+
+##### Signup for [this](https://www.hackerrank.com/masai-python-practice) contest and solve following challenges in Python:
+
+* ```What's Your Name?```
+* ```Find a string```
+* ```String Validators```
+* ```Masai Average```
+* ```Better average```
