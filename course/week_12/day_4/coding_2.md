@@ -2,7 +2,7 @@
 
 ### Coding 2
 
-Submission folder `submissions/<your_folder>/week_15/day_2/session_2`
+Submission folder `submissions/<your_folder>/week_12/day_4/session_2`
 
 ### FSD.W12.4.2_1
 - File `mirror_image.py` 

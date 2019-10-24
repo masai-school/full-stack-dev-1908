@@ -2,7 +2,7 @@
 
 ### Coding 1
 
-Submission folder `submissions/<your_folder>/week_15/day_2/session_1`
+Submission folder `submissions/<your_folder>/week_12/day_4/session_1`
 
 ### FSD.W12.4.1_1
 - File `hello_range.py` 
