@@ -6,12 +6,12 @@ Submission folder `submissions/<your_folder>/week_13/day_1/session_1`
 
 **NOTE: Write clean code and break the problem into smaller functions (UNIX Philosophy)**
 
-### FSD.W15.3.1_1
+### FSD.W13.1.1_1
 - File `strings_play.py` 
 - Should have the following functions `camel_case` `snake_case` `hypen_case` which takes a string as input and returns the string the respective case
 - You cannot use any inbuilt functions, the only things you can use are the `len` `append` 
 
-### FSD.W15.3.1_2
+### FSD.W13.1.1_2
 - File `tax_calculator.py` 
 - Should be able to calculate the tax based on the income and savings
 
@@ -28,7 +28,7 @@ The rules for the rebate based on the savings is mentioned below
 - 30% of the savings amount can be deducted from the total income if the total income is below 10,00,000
 - 10% of the savings amount can be deducted from the total income if the total income is above 10,00,000 the maximum cap of the deduction is 50,000
 
-### FSD.W15.3.1_3
+### FSD.W13.1.1_3
 - File `pyramid_play.py`
 - Should have three functions to print the pyramid , inverse pyramid  and rhombus based on the given level
 
