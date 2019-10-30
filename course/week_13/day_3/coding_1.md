@@ -4,7 +4,7 @@
 
 Submission folder `submissions/<your_folder>/week_13/day_3/session_1`
 
-### FSD.W13.3.1_1
+### FSD.PY.6.1
 
 - File `rectangle_class.py`
 - Create a class, Rectangle. Its __init__() method should take self, angle1, angle2, angle3, angle4 as arguments.
@@ -17,7 +17,7 @@ Submission folder `submissions/<your_folder>/week_13/day_3/session_1`
 - Create an __init__() function with only the parameter self, and set self.angle1, self.angle2, self.angle3 and self.angle4 equal to self.angle (since a square's angles will always be 90˚).
 
 
-### FSD.W13.3.1_2
+### FSD.PY.6.2
 
 - File `bike_class.py`
 - Define a new class named “Bike”
@@ -30,7 +30,7 @@ Submission folder `submissions/<your_folder>/week_13/day_3/session_1`
 - Apply display_bike method on your my_bike object
 
 
-### FSD.W13.3.1_3
+### FSD.PY.6.3
 
 - File `cart_class.py`
 - Define a new class named "ShoppingCart"
