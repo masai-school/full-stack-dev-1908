@@ -1,6 +1,6 @@
 ## Week 16 Day 3
 
-Submission folder `submissions/<your_folder>/week_16/day_3/session_3`
+Submission folder `submissions/<your_folder>/week_16/day_3/session_1`
 
 https://github.com/masai-school/full-stack-dev-1908/blob/master/course/week_16/day_1/coding_1.md
 
