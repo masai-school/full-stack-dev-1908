@@ -20,7 +20,7 @@ blogs: id, title, text, user_id
 ```
 
 
-#### One-to-many
+#### Many-to-many
 
 ```
 blogs: id, title, text, user_id
