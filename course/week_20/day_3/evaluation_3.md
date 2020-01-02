@@ -15,10 +15,10 @@ Submission Deadline 2nd Jan 20:00 (8:00PM)
   - You should be able to add a Job (along with no of openings and the salary) with the company list as a drop down (from the list of stored companies)
   - The home page should look like the table given below with the ability to sort based on salary or no of openings (ascending and descending) and filter based on location or company
   - The home page should also show the total no of jobs available (also based on filter)
-  - The home page should show 10 jobs per page and should have the next and previous page buttons (clicking them should show the relevant jobs accordingly) 
+  - The home page should show 10 jobs per page and should have the next and previous page buttons (clicking them should show the relevant jobs accordingly)   
 
-| Company  | Location | Job Title            | No Openings | Salary  | Edit | Delete |
-| -------- | -------------------- | ----------- | ------- | ---- | ------ |
+| Company  | Location | Job Title | No Openings | Salary  | Edit | Delete |
+| -------- | --------- | ----------- | ----------- | ------- | ---- | ------ |
 | Google   | Hyderabad | Full Stack Developer | 2           | 3500000 | Link | Link   |
 | Facebook | Bangalore | Designer             | 1           | 1250000 | Link | Link   |
 | Twitter  | Pune | Data Scientist       | 3           | 5000000 | Link | Link   |
